@@ -8,7 +8,7 @@ published in *Scientific Reports* (2026).
 ## Data source
 
 Health data were obtained from **DATASUS**, a Brazilian public health data platform maintained by the Ministry of Health  
-(https://datasus.gov.br).
+(www.datasus.saude.gov.br).
 
 The datasets were downloaded and updated up to the period corresponding to the data analysis and manuscript preparation, completed in **2025**.
 
