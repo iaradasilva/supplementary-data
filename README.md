@@ -10,7 +10,7 @@ Each folder corresponds to a specific scientific publication and contains the da
 
 ### Folder description
 
-- **DaSilva_2026/**  
+- **DaSilva_2026**  
   Contains the datasets associated with the article:  
   *“Chronic PM2.5 Exposure and Increased Risk of Hospitalization for Kidney Disease in São Paulo, Brazil”*,  
   published in *Scientific Reports* (2026).
