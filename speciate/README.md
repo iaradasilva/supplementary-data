@@ -70,3 +70,9 @@ Tabela 1 - Especiação do perfil E25 - exaustão.
 | c13                       | 0.0277577216 |
 
 ![Data sets](figs/f1.png)
+
+## Perfil 8908 exaustão - EUA
+
+![Data sets](figs/f2.png)
+
+
