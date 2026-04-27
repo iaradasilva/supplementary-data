@@ -15,7 +15,7 @@ Each folder corresponds to a specific scientific publication and contains the da
   *“Chronic PM2.5 Exposure and Increased Risk of Hospitalization for Kidney Disease in São Paulo, Brazil”*,  
   published in *Scientific Reports* (2026).
 
-  - **Speciate**  
+ - **speciate**  
 Contém informações adicionais associadas ao artigo:
 *“COMPARAÇÃO DE PERFIS QUÍMICOS DE EMISSÕES VEICULARES E SEU IMPACTO NO POTENCIAL DE FORMAÇÃO DE OZÔNIO”*
 
